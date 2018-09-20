@@ -1,4 +1,4 @@
-# Docker container for building other dockers
+# Docker container for CI/CD of react js app.
 
 Build on ubuntu 18.04
 
@@ -10,5 +10,3 @@ Build on ubuntu 18.04
 * wget
 * expect
 * chromium-browser
-
-### Node Version : 8.3.0
